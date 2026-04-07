@@ -1,7 +1,12 @@
 # 💫 About Me:
+![Developer](https://img.shields.io/badge/Status-Available_for_Projects-brightgreen?style=for-the-badge) 
 ![Followers](https://img.shields.io/github/followers/parthsharma17prs?style=for-the-badge&logo=github&color=24292e) ![Stars](https://img.shields.io/github/stars/parthsharma17prs?style=for-the-badge&logo=github&color=24292e) ![Repos](https://img.shields.io/github/repos/count/parthsharma17prs?style=for-the-badge&logo=github&color=24292e) ![Last Commit](https://img.shields.io/github/last-commit/parthsharma17prs/aura-living?style=for-the-badge&logo=git&color=24292e) ![Views](https://komarev.com/ghpvc/?username=parthsharma17prs&color=24292e&style=for-the-badge&label=PROFILE+VIEWS)
 
-Working on Cloud - AWS - Asure - GCP<br>Full stack Developer<br>Android + IOS (swift) developer<br>REact native and Flutter Developer<br>UI/UX desginer (Figma/Framer/Stitch)<br>CLoud + devops<br>Freelancing 
+### 🚀 **Full-Stack Cloud Architect & Mobile Developer**  
+Highly experienced developer specializing in comprehensive cloud solutions (**AWS, Azure, GCP**) and cross-platform mobile ecosystems (**Android, iOS, React Native, Flutter, Swift**). Expert in architecting scalable backends with **Node.js/Next.js** and crafting premium UI/UX experiences using **Figma, Framer, and Stitch**. Dedicated to **DevOps excellence** and high-performance engineering.  
+
+---
+<!-- SEO Meta: Cloud Architect, Full Stack Developer, AWS, Azure, GCP, Flutter, React Native, Swift, UI/UX Designer, Figma, DevOps, Node.js, Next.js, Python, Java, Mobile Developer, Freelance Developer -->
 
 
 ## 🌐 Socials:
