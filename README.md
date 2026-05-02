@@ -1,4 +1,5 @@
 # 💫 About Me:
+![Github GIF](./githubgif.gif)
 ![Developer](https://img.shields.io/badge/Status-Available_for_Projects-brightgreen?style=for-the-badge) 
 ![Followers](https://img.shields.io/github/followers/parthsharma17prs?style=for-the-badge&logo=github&color=24292e) ![Stars](https://img.shields.io/github/stars/parthsharma17prs?style=for-the-badge&logo=github&color=24292e) ![Repos](https://img.shields.io/github/repos/count/parthsharma17prs?style=for-the-badge&logo=github&color=24292e) ![Last Commit](https://img.shields.io/github/last-commit/parthsharma17prs/aura-living?style=for-the-badge&logo=git&color=24292e) ![Views](https://komarev.com/ghpvc/?username=parthsharma17prs&color=24292e&style=for-the-badge&label=PROFILE+VIEWS)
 
