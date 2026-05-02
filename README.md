@@ -79,8 +79,11 @@ Highly experienced developer specializing in comprehensive cloud solutions (**AW
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthsharma17prs&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=parthsharma17prs&theme=radical&no-frame=false&no-bg=true&margin-w=4" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthsharma17prs&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="60%"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=parthsharma17prs&theme=radical&no-frame=false&no-bg=true&margin-w=4" width="100%"/>
 </p>
 
 ---
