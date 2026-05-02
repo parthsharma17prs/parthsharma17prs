@@ -3,7 +3,7 @@
 # 💫 Parth Sharma
 ### Full-Stack Architect & Cloud Specialist
 
-![Banner](./banner.png)
+![Banner](./premium-banner-v3.png)
 
 <p align="center">
   <a href="#about">About</a> •
