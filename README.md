@@ -3,13 +3,15 @@
 # 💫 Parth Sharma
 ### Full-Stack Architect & Cloud Specialist
 
-![Banner](./stylized-banner-v4.png)
+![Banner](./final-stylized-banner.png)
 
 <p align="center">
   <a href="#about">About</a> •
   <a href="#projects">Projects</a> •
   <a href="#skills">Skills</a> •
-  <a href="#stats">Stats</a>
+  <a href="#stats">Stats</a> •
+  <a href="https://prsagency.gt.tc" target="_blank">Agency</a> •
+  <a href="https://prsprojects.gt.tc" target="_blank">Portfolio</a>
 </p>
 
 ---
