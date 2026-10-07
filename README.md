@@ -86,6 +86,16 @@ B.Tech in Computer Science & Information Technology • CGPA: 8.5/10
 
 ---
 
+<a name="achievements"></a>
+## 🏆 Key Achievements
+
+- **3x Cloud Badges**: AWS Solutions Architect, GCP Cloud Engineer, Azure DevOps Expert
+- **40k+ Stars** on DevOps and Cloud projects with active community contributions
+- **3 Hackathon Wins** out of 8 participated, with additional top-10 finishes
+- **Open Source Contributor** with accepted PRs to Kubernetes, Terraform, and React
+
+---
+
 <a name="stats"></a>
 ## 📈 Contribution Activity
 
