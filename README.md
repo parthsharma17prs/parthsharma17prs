@@ -52,6 +52,14 @@ Highly experienced developer specializing in comprehensive cloud solutions (**AW
 
 ---
 
+<a name="education"></a>
+## 🎓 Education
+
+**Symbiosis University of Applied Sciences, Indore** (2024 – 2028)
+B.Tech in Computer Science & Information Technology • CGPA: 8.5/10
+
+---
+
 <a name="skills"></a>
 ## 💻 Tech Stack
 
